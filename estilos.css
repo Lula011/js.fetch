@@ -1,0 +1,44 @@
+body{
+    padding: 5%;
+    margin: 5%;
+    background: rgb(59, 227, 233);
+background: radial-gradient(circle, rgba(63,244,251,1) 41%, rgba(48,81,102,1) 100%);
+
+}
+    
+
+h1{
+    color: rgb(112, 109, 109);
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2{
+    padding-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
+}
+
+h3{
+    
+    text-align: center;
+    text-decoration: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+
+h3 div{
+    border-color: rgb(12, 11, 11) rgb(0, 0, 0) rgb(9, 0, 128);
+  border-width: 10px 10px 10px;
+  border-style: solid solid solid;
+}
+
+footer{
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: grey;
+    padding: 10px;
+}
